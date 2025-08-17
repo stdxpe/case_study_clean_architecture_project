@@ -1,0 +1,14 @@
+library utilities;
+
+import 'package:flutter/material.dart';
+import 'package:easy_localization/easy_localization.dart';
+
+/// All imports are utilized by the following sections
+part 'k_constants.dart';
+part 'k_strings.dart';
+part 'k_themes.dart';
+part 'k_visuals.dart';
+part 'k_color_palette.dart';
+part 'k_text_themes.dart';
+part '../extensions/k_color_extensions.dart';
+part '../extensions/k_general_extensions.dart';
